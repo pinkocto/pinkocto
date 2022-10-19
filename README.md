@@ -4,3 +4,6 @@
 
 ⚡ 내용 : Today to do list <br>
 🌱 해당 저장소로 [이동하기](https://github.com/pinkocto/Today_TodoList)
+
+⚡ 내용 : 2022 study <br>
+🌱 해당 저장소로 [이동하기] (https://pinkocto.github.io/BP2022/)
