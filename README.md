@@ -10,10 +10,10 @@ It is a summary of what I have learned and projects, starting in 2021.
 🌱 [Move to repo](https://github.com/pinkocto/MyDataAnalysis_2022)
 
 ⚡ Contents : Today to do list <br>
-🔭 해당 저장소로 [이동하기](https://github.com/pinkocto/Today_TodoList)
+🔭 [Move to repo](https://github.com/pinkocto/Today_TodoList)
 
 ⚡ Contents : 2022 study, OpenCV-Python <br>
-📫 해당 저장소로 [이동하기](https://pinkocto.github.io/BP2022/)
+📫 [Move to repo](https://pinkocto.github.io/BP2022/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinkocto&show_icons=true&theme=radical)
 
