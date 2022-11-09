@@ -12,7 +12,7 @@ It is a summary of what I have learned and projects, starting in 2021.
 ⚡ Contents : Today to do list <br>
 🔭 [Move to repo](https://github.com/pinkocto/Today_TodoList)
 
-⚡ Contents : 2022 study, OpenCV-Python <br>
+⚡ Contents : study, OpenCV-Python <br>
 📫 [Move to repo](https://pinkocto.github.io/BP2022/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinkocto&show_icons=true&theme=radical)
