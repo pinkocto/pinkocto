@@ -8,3 +8,5 @@
 
 ⚡ 내용 : 2022 study, OpenCV-Python <br>
 📫 해당 저장소로 [이동하기](https://pinkocto.github.io/BP2022/)
+
+<img src="https://github-readme-stats.vercel.app/api?username=pinkocto&show_icons=true">
