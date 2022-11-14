@@ -15,6 +15,9 @@ It is a summary of what I have learned and projects, starting in 2021.
 ⚡ Contents : study, OpenCV-Python <br>
 📫 [Move to repo](https://pinkocto.github.io/BP2022/)
 
+🏆 Project List 
+- 2022 Jeonju City Public Data Utilization Analysis Contest : Top Prize🏅
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinkocto&show_icons=true&theme=radical)
 
 
