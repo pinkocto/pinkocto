@@ -19,8 +19,8 @@ It is a summary of what I have learned and projects, starting in 2021.<br>
 🏆 2022 Project List 
 - Amex (American Express) 
 - 2022 Jeonju City Public Data Utilization Analysis Contest : Top Prize🏅
-- AI competition for predicting lymphadenopathy of breast cancer (on going)
-- AI competition for classification of oil conditions of construction machinery (on going)
+- AI competition for predicting lymphadenopathy of breast cancer (on going) [Notion]()
+- AI competition for classification of oil conditions of construction machinery (on going) [Notion]()
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinkocto&show_icons=true&theme=radical)
 
