@@ -21,7 +21,6 @@ It is a summary of what I have learned and projects, starting in 2021.<br>
 - Amex (American Express) 
 - 2022 Jeonju City Public Data Utilization Analysis Contest : Top Prize🏅
 - [Customer Segmentation & RFM Analysis](https://github.com/pinkocto/Customer_Segmentation/blob/main/README.md) > ongoing
-- AI competition for classification of oil conditions of construction machinery (on going) [Notion]()
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinkocto&show_icons=true&theme=radical)
 
