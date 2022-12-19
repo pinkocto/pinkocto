@@ -19,6 +19,7 @@ It is a summary of what I have learned and projects, starting in 2021.<br>
 
 🏆 2022 Project List 
 - Amex (American Express) 🌈*Goorm Project*☁
+  - Default Prediction
 - 2022 Jeonju City Public Data Utilization Analysis Contest : Top Prize🏅
 - AI competition for classification of oil conditions of construction machinery : Top 10%
 - [Customer Segmentation & RFM Analysis](https://github.com/pinkocto/Customer_Segmentation/blob/main/README.md) > ongoing
