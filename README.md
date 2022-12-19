@@ -22,9 +22,10 @@ It is a summary of what I have learned and projects, starting in 2021.<br>
 - 2022 Jeonju City Public Data Utilization Analysis Contest : Top Prize🏅
 - AI competition for classification of oil conditions of construction machinery : Top 10%
 - [Customer Segmentation & RFM Analysis](https://github.com/pinkocto/Customer_Segmentation/blob/main/README.md) > ongoing
+
 - Optimization of operating conditions > ongoing <br>
-      - Reducing defective rate > Classification model, Pareto, Control chart
-      - Improvement of order management > TimeSeries Analysis
+      - Reducing defective rate > Classification model, Pareto, Control chart <br>
+      - Improvement of order management > TimeSeries Analysis <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinkocto&show_icons=true&theme=radical)
 
