@@ -24,8 +24,8 @@ It is a summary of what I have learned and projects, starting in 2021.<br>
 - [Customer Segmentation & RFM Analysis](https://github.com/pinkocto/Customer_Segmentation/blob/main/README.md) > ongoing
 
 - Optimization of operating conditions > ongoing <br>
-- Reducing defective rate > Classification model, Pareto, Control chart <br>
-- Improvement of order management > TimeSeries Analysis <br>
+  - Reducing defective rate > Classification model, Pareto, Control chart <br>
+  - Improvement of order management > TimeSeries Analysis <br>
 
 
 🌻 Study <br>
