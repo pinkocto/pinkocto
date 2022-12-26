@@ -28,7 +28,6 @@ It is a summary of what I have learned and projects, starting in 2021.<br>
   - Reducing defective rate > Classification model, Pareto, Control chart <br>
   - Improvement of order management > TimeSeries Analysis <br>
 
-
 🌻 Study <br>
 - TimeSeries Analysis
 
