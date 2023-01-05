@@ -18,7 +18,7 @@ It is a summary of what I have learned and projects, starting in 2021.<br>
 📫 [Move to repo](https://pinkocto.github.io/BP2022/)
 
 🏆 2022 Project List 
-- Amex (American Express) 🌈*Goorm Project*☁
+- Amex (American Express) 🌈*Goorm Project*☁ 
   - Default Prediction
 - 2022 Jeonju City Public Data Utilization Analysis Contest : Top Prize🏅
 - AI competition for classification of oil conditions of construction machinery : Top 10%
