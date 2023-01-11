@@ -29,7 +29,7 @@ It is a summary of what I have learned and projects, starting in 2021.<br>
   - Improvement of order management > TimeSeries Analysis <br>
 
 🌻 Study <br>
-- TimeSeries Analysis
+- TimeSeries Analysis 
 - Scoring List 확인 : sklearn.metrics.SCORERS.keys()  
 
 
