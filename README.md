@@ -32,7 +32,7 @@ It is a summary of what I have learned and projects, starting in 2021.<br>
 
 
 
-🔅 certificate <br>
+🔅 Certificate <br>
 ADsP, Survey Analyst, Big Data Analysis, ADP(ongoing)
 
 🌻 Study <br>
