@@ -23,14 +23,20 @@ It is a summary of what I have learned and projects, starting in 2021.<br>
 - 2022 Jeonju City Public Data Utilization Analysis Contest : Top Prize🏅
 - AI competition for classification of oil conditions of construction machinery : Top 10%
 - [Customer Segmentation & RFM Analysis](https://github.com/pinkocto/Customer_Segmentation/blob/main/README.md) > ongoing
+- Predict Future Sales (Kaggle playground) : 2022/12/23 ~ 2023/1/10
 
 - Optimization of operating conditions > ongoing <br>
   - Reducing defective rate > Classification model, Pareto, Control chart <br>
   - Improvement of order management > TimeSeries Analysis <br>
 
+🔅 certificate
+ADsP, Survey Analyst, Big Data Analysis, ADP(ongoing)
+
 🌻 Study <br>
 - TimeSeries Analysis 
-- Scoring List 확인 : sklearn.metrics.SCORERS.keys()  
+- pytorch
+
+(*) Scoring List 확인 : sklearn.metrics.SCORERS.keys()  
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinkocto&show_icons=true&theme=radical)   
