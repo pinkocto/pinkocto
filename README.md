@@ -18,6 +18,11 @@ It is a summary of what I have learned and projects, starting in 2021.<br>
 📫 [Move to repo](https://pinkocto.github.io/BP2022/)
 
 🏆 2022 Project List 
+
+- Optimization of operating conditions > ongoing <br>
+  - Reducing defective rate > Classification model(RF, GB, XGB, LGBM), Pareto, Control chart (Xbar-R Chart)<br>
+  - Improvement of order management > TimeSeries Analysis <br>
+
 - Amex (American Express) 🌈*Goorm Project*☁ 
   - Default Prediction
 - 2022 Jeonju City Public Data Utilization Analysis Contest (Top Prize🏅): 2022/09/26 ~ 2022/10/14
@@ -25,9 +30,7 @@ It is a summary of what I have learned and projects, starting in 2021.<br>
 - [Customer Segmentation & RFM Analysis](https://github.com/pinkocto/Customer_Segmentation/blob/main/README.md) > ongoing : 2022/11/28~
 - Predict Future Sales (Kaggle playground) : 2022/12/23 ~ 2023/1/10
 
-- Optimization of operating conditions > ongoing <br>
-  - Reducing defective rate > Classification model, Pareto, Control chart <br>
-  - Improvement of order management > TimeSeries Analysis <br>
+
 
 🔅 certificate
 ADsP, Survey Analyst, Big Data Analysis, ADP(ongoing)
