@@ -15,7 +15,7 @@ It is a summary of what I have learned and projects, starting in 2021.<br>
 
 ⚡ Contents : study, OpenCV-Python <br>
 🎬 [Move to edit](https://github.com/pinkocto/BP2022)
-📫 [Move to repo](https://pinkocto.github.io/BP2022/)
+📫 [Move to repo](https://pinkocto.github.io/BP2022/) 
 
 🏆 2022 Project List 
 
