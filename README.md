@@ -23,7 +23,7 @@ It is a summary of what I have learned and projects, starting in 2021.<br>
   - Reducing defective rate > Classification model(RF, GB, XGB, LGBM), Pareto, Control chart (Xbar-R Chart)<br>
   - Improvement of order management > TimeSeries Analysis <br>
 
-- Amex (American Express) 🌈*Goorm Project*☁ 
+- Amex (American Express) 🌈*Goorm Project*☁  : 2022/10/06 ~ 2022/10/28
   - Default Prediction (Final Model: CatBoost)
 - 2022 Jeonju City Public Data Utilization Analysis Contest (Top Prize🏅): 2022/09/26 ~ 2022/10/14
 - AI competition for classification of oil conditions of construction machinery : Top 10%
