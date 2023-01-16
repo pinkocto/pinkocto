@@ -17,7 +17,7 @@ It is a summary of what I have learned and projects, starting in 2021.<br>
 🎬 [Move to edit](https://github.com/pinkocto/BP2022)
 📫 [Move to repo](https://pinkocto.github.io/BP2022/) 
 
-🏆 2022 Project List 
+🏆 2022 Project List  
 
 - Optimization of operating conditions > ongoing <br>
   - Reducing defective rate > Classification model(RF, GB, XGB, LGBM), Pareto, Control chart (Xbar-R Chart)<br>
