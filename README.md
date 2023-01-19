@@ -5,7 +5,7 @@
 
 ### 🙋‍♀️ My Data Analysis 
 It is a summary of what I have learned and projects, starting in 2021.<br>
-📢 My current goal is to upload GitHub steadily for a year. (2022.09.06~2023.09.06)
+📢 My current goal is to upload GitHub steadily for a year. (2022.09.06~2023.09.06) 
 
 ⚡ Contents : 2022 Data Analysis <br>
 🌱 [Move to repo](https://github.com/pinkocto/MyDataAnalysis_2022)
