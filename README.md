@@ -25,8 +25,10 @@ It is a summary of what I have learned and projects, starting in 2021.<br>
   - Default Prediction (Final Model: CatBoost)
 - AI competition for classification of oil conditions of construction machinery : Top 10%
 - [Customer Segmentation & RFM Analysis](https://github.com/pinkocto/Customer_Segmentation/blob/main/README.md) > ongoing : 2022/11/28~
+
+📌 2023 Project List
 - Predict Future Sales (Kaggle playground) : 2022/12/23 ~ 2023/1/10
-- 
+
 
 
 
