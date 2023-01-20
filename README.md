@@ -29,12 +29,6 @@ It is a summary of what I have learned and projects, starting in 2021.<br>
 📌 2023 Project List
 - Predict Future Sales (Kaggle playground) : 2022/12/23 ~ 2023/1/10
 
-
-
-
-🔅 Certificate <br>
-ADsP, Survey Analyst, Big Data Analysis, ADP(ongoing)
-
 🌻 Study <br>
 - TimeSeries Analysis 
 - pytorch
