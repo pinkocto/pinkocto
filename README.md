@@ -19,11 +19,7 @@ It is a summary of what I have learned and projects, starting in 2021.<br>
 
 🏆 2022 Project List  
 
-- Optimization of operating conditions > ongoing <br>
-  - Reducing defective rate > Classification model(RF, GB, XGB, LGBM), Pareto, Control chart (Xbar-R Chart)<br>
-  - Improvement of order management > TimeSeries Analysis <br>
-
-
+- Optimization of operating conditions 
 - 2022 Jeonju City Public Data Utilization Analysis Contest (Top Prize🏅): 2022/09/26 ~ 2022/10/14
 - Amex (American Express) 🌈*Goorm Project*☁  : 2022/10/06 ~ 2022/10/28
   - Default Prediction (Final Model: CatBoost)
