@@ -20,7 +20,6 @@ It is a summary of what I have learned and projects, starting in 2021.<br>
 📌 2022 Project List  
 
 - Optimization of operating conditions (HMR) : 2022/06/04 ~ 2022/06/10
-- Semiconductor
 - 2022 Jeonju City Public Data Utilization Analysis Contest (Top Prize🏅): 2022/09/26 ~ 2022/10/14
 - Amex (American Express) 🌈*Goorm Project*☁  : 2022/10/06 ~ 2022/10/28
   - Default Prediction (Final Model: CatBoost)
@@ -31,6 +30,7 @@ It is a summary of what I have learned and projects, starting in 2021.<br>
 
 📌 2023 Project List
 - Predict Future Sales (Kaggle playground) : 2022/12/23 ~ 2023/1/10
+- Optimizing Semiconductor Manufacturing Processes
 
 🌻 Study <br>
 - TimeSeries Analysis 
