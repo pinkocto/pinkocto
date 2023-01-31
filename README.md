@@ -39,7 +39,7 @@ It is a summary of what I have learned and projects, starting in 2021.<br>
 
 `-` Scoring List 확인 : sklearn.metrics.SCORERS.keys()  
 `-` [Rmarkdown color box](https://stackoverflow.com/questions/25654845/how-can-i-create-a-text-box-for-a-note-in-markdown)
-
+`-` [confidence interval](https://rfriend.tistory.com/114)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinkocto&show_icons=true&theme=radical)   
 
