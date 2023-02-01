@@ -30,7 +30,7 @@ It is a summary of what I have learned and projects, starting in 2021.<br>
 
 📌 2023 Project List
 - Predict Future Sales (Kaggle playground) : 2022/12/23 ~ 2023/1/10
-- Optimizing Semiconductor Manufacturing Processes
+- Optimizing Semiconductor Manufacturing Processes: 2023/01/25 ~
 
 
 🌻 Study <br>
