@@ -23,10 +23,12 @@ It is a summary of what I have learned and projects, starting in 2021.<br>
 - 2022 Jeonju City Public Data Utilization Analysis Contest (Top Prize🏅): 2022/09/26 ~ 2022/10/14
 - Amex (American Express) 🌈*Goorm Project*☁  : 2022/10/06 ~ 2022/10/28
   - Default Prediction (Final Model: CatBoost)
+- plant pathology : 2022/11/13~2022/11/15
 - AI competition for classification of oil conditions of construction machinery : Top 8%
 - Genetic Information Variety Classification : Top 6%
-- Prediction of lymphadenosis in Breast Cancer
+- [Prediction of lymphadenosis in Breast Cancer]()
 - [Customer Segmentation & RFM Analysis](https://github.com/pinkocto/Customer_Segmentation/blob/main/README.md) > ongoing : 2022/11/28~
+
 
 📌 2023 Project List
 - Predict Future Sales (Kaggle playground) : 2022/12/23 ~ 2023/1/10
