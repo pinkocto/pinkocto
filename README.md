@@ -31,7 +31,7 @@ It is a summary of what I have learned and projects, starting in 2021.<br>
 
 
 📌 2023 Project List
-- Predict Future Sales (Kaggle playground) : 2022/12/23 ~ 2023/1/10
+- [Predict Future Sales (Kaggle playground)](https://github.com/pinkocto/kaggle_project2/blob/main/README.md) : 2022/12/23 ~ 2023/1/10
 - Optimizing Semiconductor Manufacturing Processes: 2023/01/25 ~
 
 
