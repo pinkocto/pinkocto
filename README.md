@@ -7,15 +7,16 @@
 It is a summary of what I have learned and projects, starting in 2021.<br>
 📢 My current goal is to upload GitHub steadily for a year. (2022.09.06~2023.09.06) and getting an ADP certificate.
 
-⚡ Contents : 2022 Data Analysis <br>
+⚡ Contents : study, OpenCV-Python <br>
+🎬 [Move to edit](https://github.com/pinkocto/BP2022)
+📫 [Move to repo](https://pinkocto.github.io/BP2022/) 
+
+⚡ Contents : 2022 Data Analysis [Basic] <br>
 🌱 [Move to repo](https://github.com/pinkocto/MyDataAnalysis_2022)
 
 ⚡ Contents : Today to do list <br>
 🔭 [Move to repo](https://github.com/pinkocto/Today_TodoList)
 
-⚡ Contents : study, OpenCV-Python <br>
-🎬 [Move to edit](https://github.com/pinkocto/BP2022)
-📫 [Move to repo](https://pinkocto.github.io/BP2022/) 
 
 📌 2022 Project List  
 
