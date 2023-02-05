@@ -12,7 +12,7 @@ It is a summary of what I have learned and projects, starting in 2021.<br>
 🎬 [Move to edit](https://github.com/pinkocto/BP2022)
 
 
-⚡ Contents : 2022 Data Analysis [kaggle Basic] <br>
+⚡ Contents : 2022 Data Analysis [kaggle Basic] <br> 
 🌱 [Move to repo](https://github.com/pinkocto/MyDataAnalysis_2022)
 
 ⚡ Contents : Today to do list <br>
