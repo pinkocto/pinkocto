@@ -45,6 +45,7 @@ It is a summary of what I have learned and projects, starting in 2021.<br>
 - Scoring List 확인 : sklearn.metrics.SCORERS.keys()  
 - [Rmarkdown color box](https://stackoverflow.com/questions/25654845/how-can-i-create-a-text-box-for-a-note-in-markdown) <br>
 - [confidence interval](https://rfriend.tistory.com/114)
+- [caret](https://lovetoken.github.io/r/machinelearning/2017/04/23/caret_package.html)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinkocto&show_icons=true&theme=radical)   
 
