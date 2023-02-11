@@ -24,7 +24,6 @@ It is a summary of what I have learned and projects, starting in 2021.<br>
 - Optimization of operating conditions (HMR) : 2022/06/04 ~ 2022/06/10
 - 2022 Jeonju City Public Data Utilization Analysis Contest (Top Prize🏅): 2022/09/26 ~ 2022/10/14
 - Amex (American Express) 🌈*Goorm Project*☁  : 2022/10/06 ~ 2022/10/28
-  - Default Prediction (Final Model: CatBoost)
 - [plant pathology](https://github.com/pinkocto/plant-pathology) : 2022/11/13~2022/11/15
 - AI competition for classification of oil conditions of construction machinery : Top 8%
 - Genetic Information Variety Classification : Top 6%
