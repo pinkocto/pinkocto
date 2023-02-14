@@ -8,7 +8,7 @@
 
 ✔️ To do List
 - repo 정리
-- blog 정리
+- blog 정리 (error)
 
 🌻 Study <br>
 - [Python](https://pinkocto.github.io/Quarto-Blog/)
