@@ -11,12 +11,6 @@ It is a summary of what I have learned and projects, starting in 2021.<br>
 📫 [Move to repo](https://pinkocto.github.io/BP2022/) 
 
 
-⚡ Contents : 2022 Data Analysis [kaggle Basic] <br> 
-🌱 [Move to repo](https://github.com/pinkocto/MyDataAnalysis_2022)
-
-⚡ Contents : Today to do list <br>
-🔭 [Move to repo](https://github.com/pinkocto/Today_TodoList)
-
 
 📌 2022 Project List  
 
