@@ -9,7 +9,6 @@ It is a summary of what I have learned and projects, starting in 2021.<br>
 
 ⚡ Contents : study, OpenCV-Python <br>
 📫 [Move to repo](https://pinkocto.github.io/BP2022/) 
-🎬 [Move to edit](https://github.com/pinkocto/BP2022)
 
 
 ⚡ Contents : 2022 Data Analysis [kaggle Basic] <br> 
@@ -27,8 +26,8 @@ It is a summary of what I have learned and projects, starting in 2021.<br>
 - [plant pathology](https://github.com/pinkocto/plant-pathology) : 2022/11/13~2022/11/15
 - AI competition for classification of oil conditions of construction machinery : Top 8%
 - Genetic Information Variety Classification : Top 6%
-- [Prediction of lymphadenosis in Breast Cancer]()
-- [Customer Segmentation & RFM Analysis](https://github.com/pinkocto/Customer_Segmentation/blob/main/README.md) > ongoing : 2022/11/28~
+- Prediction of lymphadenosis in Breast Cancer
+- Customer Segmentation & RFM Analysis > ongoing : 2022/11/28~
 
 
 📌 2023 Project List
