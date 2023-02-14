@@ -7,8 +7,7 @@
 It is a summary of what I have learned and projects, starting in 2021.<br>
 
 
-⚡ Contents : study, OpenCV-Python <br>
-📫 [Move to repo](https://pinkocto.github.io/BP2022/) 
+
 
 
 🌻 Study <br>
