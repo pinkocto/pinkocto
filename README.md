@@ -6,7 +6,6 @@
 
 > It is a summary of what I have learned and projects, starting in 2021.<br>
 
-- repo 정리
 
 
 🌻 Study <br>
