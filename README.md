@@ -11,7 +11,6 @@
 
 🌻 Study <br>
 - [Python](https://pinkocto.github.io/Quarto-Blog/) 
-- TimeSeries Analysis 
 - pytorch
 
 🔅 Tips <br>
