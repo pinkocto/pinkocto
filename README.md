@@ -10,7 +10,7 @@
 - repo 정리
 
 🌻 Study <br>
-- [Python](https://pinkocto.github.io/Quarto-Blog/) 
+- Python
 - pytorch
 
 🔅 Tips <br>
