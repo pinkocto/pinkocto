@@ -10,7 +10,7 @@
  
 🌻 Study <br>
 - Python
-- pytorch
+- pytorch 
 
 🔅 Tips <br>
 - Scoring List 확인 : sklearn.metrics.SCORERS.keys()  
