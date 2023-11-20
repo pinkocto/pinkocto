@@ -4,7 +4,7 @@
      
    
      
-🌻 Study <br>         
+🌻 Study <br>          
 - Python 
 - pytorch
 
