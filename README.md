@@ -5,7 +5,7 @@
    
      
 🌻 Study <br>               
-- Python  
+- Python   
 - pytorch 
 
 🔅 Tips <br> 
