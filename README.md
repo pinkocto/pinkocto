@@ -4,7 +4,7 @@
       
 - [MY BLOG](https://pinkocto.github.io/noteda/)      
           
-🌻 Study <br>                   
+🌻 Study <br>                    
 - Python    
 - pytorch   
 
