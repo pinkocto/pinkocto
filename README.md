@@ -5,7 +5,7 @@
 - [MY BLOG](https://pinkocto.github.io/noteda/)      
           
 🌻 Study <br>                      
-- Python    
+- Python     
 - pytorch    
 
 🔅 Tips <br>  
