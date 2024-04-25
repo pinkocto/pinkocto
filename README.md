@@ -7,7 +7,7 @@
 - Python            
 - pytorch      
     
-🔅 Tips <br>    
+🔅 Tips <br>     
 - Scoring List 확인 : sklearn.metrics.SCORERS.keys()     
 - [Rmarkdown color box](https://stackoverflow.com/questions/25654845/how-can-i-create-a-text-box-for-a-note-in-markdown) <br>          
 - [confidence interval](https://rfriend.tistory.com/114)     
